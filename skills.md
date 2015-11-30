@@ -4,4 +4,4 @@ title: Skills
 permalink: /skills/
 ---
 
-HTML -- CSS -- Javascript -- Bootstrap -- jQuery -- Angular -- Require
+HTML -- CSS -- JavaScript -- Bootstrap -- jQuery -- AngularJS -- RequireJS
