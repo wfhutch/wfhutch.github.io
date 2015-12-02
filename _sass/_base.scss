@@ -19,7 +19,7 @@ body {
     line-height: $base-line-height;
     font-weight: 300;
     color: $text-color;
-    background-color: $background-color;
+    background-color: #F7EEE1;
     -webkit-text-size-adjust: 100%;
 }
 
@@ -40,26 +40,35 @@ ul, ol, dl, figure,
 /**
  * Images
  */
-img {
-    width: 100px;
-    height: 100px;
-    vertical-align: middle;
-}
-
-.skills-list {
-    margin-top: 30px;
-    margin-bottom: 30px;
-}
+// img {
+//     width: 100px;
+//     height: 100px;
+//     vertical-align: middle;
+// }
 
 .profile-pic {
     border-radius: 50%;
-    margin-bottom: 30px;
 }
 
-.skills-list {
-    margin-top: 50px;
+#profile-pic {
+    text-align: center;
+    padding: 20px;
 }
 
+.tech-logos {
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+}
+
+table {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#game-link {
+    margin-top: 30px;
+}
 
 
 /**
