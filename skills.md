@@ -43,9 +43,15 @@ permalink: /skills/
     </table>
   </article>
 
-  While working as an apprentice developer at Nashville Software School, I had the opportunity to work on a number of different CRUD apps using the technologies listed above.  There were individual projects as well as those that were team exercises.  GitHub was used for version control on all projects.  Click the link below to play a game I created using the Phaser game engine!
+  While working as an apprentice developer at Nashville Software School, I had the opportunity to work on a number of different CRUD apps using the technologies listed above.  There were individual projects as well as those that were team exercises.  GitHub was used for version control on all projects.
 
   <div id="game-link">
     <a href="https://bears-beets.firebaseapp.com" target="_blank">
-    <img src="/images/bears-beets.png" alt="Bears.Beets.Battlestar Galactica Game" width="400" height="200">
+      <img src="/images/bears-beets.png" alt="Bears.Beets.Battlestar Galactica Game" width="260" height="200">
+    </a>
+  </div>
+
+  <div id="game-text">
+    <h3>Bears. Beets. Battlestar Galactica!</h3>
+    <p>This game was created using the Phaser game engine.  After three months of learning front-end technologies at Nashville Software School, this was my Capstone Project.  Clink on the image and check it out!</p>
   </div>
