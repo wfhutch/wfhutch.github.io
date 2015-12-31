@@ -53,5 +53,5 @@ permalink: /skills/
 
   <div id="game-text">
     <h3>Bears. Beets. Battlestar Galactica!</h3>
-    <p>This game was created using the Phaser game engine.  After three months of learning front-end technologies at Nashville Software School, this was my Capstone Project.  Clink on the image and see if you can get to the top of the leaderboard!</p>
+    <p>This game was created using the Phaser game engine.  After three months of learning front-end technologies at Nashville Software School, this was my Capstone Project.  Click on the image and see if you can get to the top of the leaderboard!</p>
   </div>
