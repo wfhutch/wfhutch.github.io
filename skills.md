@@ -58,7 +58,7 @@ permalink: /skills/
 
   <div id="takinStock-link">
     <a href="https://github.com/wfhutch/TakinStock" target="_blank">
-      <img src="/images/trippin.png" alt="Travel Diary App" width="260" height="200">
+      <img src="/images/takinstock.png" alt="Travel Diary App" width="260" height="200">
     </a>
   </div>
 
