@@ -5,7 +5,7 @@ date:   2015-12-01 10:35:24
 categories: jekyll update
 ---
 
-So you want to learn to code.  Great!  You pick up a couple books, maybe from Mark Meyers' A Smarter Way To Learn series, you sign up to watch some tutorials on something like Treehouse, and you download a text editor.  You learn some simple HTML, CSS and JavaScript and before you know it there are pictures, and colors, and words of all different types of fonts and sizes appearing in your browser.  It's amazing!  You made it happen with just a link up here, and some scripts down there and various types of tags in between.
+So you want to learn to code.  Great!  You pick up a couple books, maybe from Mark Meyers' A Smarter Way To Learn series, you sign up to watch some tutorials on something like Treehouse, and you download a text editor.  You learn some simple HTML, CSS and JavaScript and before you know it there are pictures, and colors, and words in all different types of fonts and sizes appearing in your browser.  It's amazing!  You made it happen with just a link up here, and some scripts down there and various types of tags in between.
 
 You've made a pretty rapid climb up the first slope of learning to code.  But now things are starting to get a bit more chewy.  Things aren't happening on your screen the way you expect them to and you can't figure out why.  Imposter Syndrome is starting to set in.  Your confidence is severly shaken.  You're starting to feel like there is no way anyone would ever actually pay you to do this stuff.  Congratulations!  You've begun your descent into the valley of despair. 
 

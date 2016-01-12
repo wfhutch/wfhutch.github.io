@@ -55,3 +55,19 @@ permalink: /skills/
     <h3>Bears. Beets. Battlestar Galactica!</h3>
     <p>This game was created using the Phaser game engine.  After three months of learning front-end technologies at Nashville Software School, this was my Capstone Project.  Click on the image and see if you can get to the top of the leaderboard!</p>
   </div>
+
+  <div id="takinStock-link">
+    <a href="https://github.com/wfhutch/TakinStock" target="_blank">
+      <img src="/images/trippin.png" alt="Travel Diary App" width="260" height="200">
+    </a>
+  </div>
+
+  <div id="takinStock-text">
+    <h3>Takin' Stock</h3>
+    <p>This is an ASP.NET MVC 5 app built using C#.  With this app you can manage all of your personal inventory and account for an item being lost or stolen.</p>
+  </div>
+
+
+
+
+
