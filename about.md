@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div id="profile-pic">
-  <img class="profile-pic" src="/images/NSSColorPhoto.jpg" width="350" height="480">
+  <img class="profile-pic" src="/images/NSSColorPhoto.jpg" width="340" height="500">
 </div>
 
 I am a married father of two living in Nashville, TN.  I am originally from Maine and haved lived in Nashville for the last 19 years.  I moved here primarily to escape those bitter New England winters but I do miss the coast in the summer.  Like half the population of this town I am a musician.  I love to play guitar and piano, but drums is the only instrument I will gig on.
