@@ -21,7 +21,7 @@ categories: jekyll update
 
 8. When I was a kid we had a pet skunk named Zebedee. Once when my parents were having a big cookout with a bunch of friends from church, I hid Zebedee behind the garage. I let him go right when everybody sat down to eat. People really freak out when they see a skunk, and even more so when you walk up to one and pick it up.
 
-9. The name of my first band in high school was The Magic Rats. We later changed it to the much cooler, much tougher sounding Nightwatchmen. Other band names have been Holiday Romance, Big Rain, and The Gun Shy Dogs. 
+9. I love to play drums, guitar and piano. The name of my first band in high school was The Magic Rats. We later changed it to the much cooler, much tougher sounding Nightwatchmen. Other band names have been Holiday Romance, Big Rain, and The Gun Shy Dogs. 
 
 10. My wife Jill can trace her ancestry back to Isaac Allerton who came over on the Mayflower. I can trace mine back to a traveling medicine show pitch man. 
 
@@ -47,7 +47,7 @@ categories: jekyll update
 
 21. I lied about my ancestry on #10 but the part about Jill's is true. 
 
-22. I love being a part of the worship team at The Church At Woodbine. Just about the friendliest bunch of people I have ever come across. 
+22. I love being a part of the worship team at The Church At Woodbine. Just about the friendliest bunch of people I have ever come across. Come visit us at 29 Whitsett Rd, Nashville, TN 37210! 
 
 23. I've had a lot of good spills in my life. The best one was falling into a stairwell. All of me that is except for my left foot which stayed up on the floor and ended up being pinned to the back of my head. Somehow I came out of that one unscathed. 
 
