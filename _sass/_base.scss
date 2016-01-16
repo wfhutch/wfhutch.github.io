@@ -18,6 +18,7 @@ body {
     font-size: $base-font-size;
     line-height: $base-line-height;
     font-weight: 300;
+    text-align: justify;
     color: $text-color;
     background-color: #f7e6ca;
     background-image: url("http://www.transparenttextures.com/patterns/egg-shell.png");
@@ -43,6 +44,7 @@ ul, ol, dl, figure,
  */
 
 .profile-pic {
+    border: 5px double #f7e6ca;
     border-radius: 50%;
 }
 
@@ -70,7 +72,6 @@ table {
 
 #game-text {
     margin: 50px 0 0 280px;
-
 }
 
 #takinStock-link {
