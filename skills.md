@@ -53,7 +53,7 @@ permalink: /skills/
 
   <div id="game-text">
     <h3>Bears. Beets. Battlestar Galactica!</h3>
-    <p>This game was created using the Phaser game engine.  After three months of learning front-end technologies at Nashville Software School, this was my Capstone Project.  Click on the image and see if you can get to the top of the leaderboard!</p>
+    <p>This game was created using the Phaser game engine.  After three months of learning front-end technologies at Nashville Software School, this was my Capstone Project.  Props to my son Samuel for creating the music and to my daughter Hope for holding the high score... for now.  Click on the image and see if you can get to the top of the leaderboard!</p>
   </div>
 
   <div id="takinStock-link">
@@ -64,7 +64,7 @@ permalink: /skills/
 
   <div id="takinStock-text">
     <h3>Takin' Stock</h3>
-    <p>This is an ASP.NET MVC 5 app built using C#.  With this app you can manage all of your personal inventory and account for an item being lost or stolen.</p>
+    <p>This is an ASP.NET MVC 5 app built using C#.  With this app you can manage all of your personal inventory and account for an item being lost or stolen.  Clicking on the image will take you to my Github repo for this project.</p>
   </div>
 
 
