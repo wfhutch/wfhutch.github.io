@@ -19,7 +19,7 @@ categories: jekyll update
 
 7. I have broken my right collarbone 4 times and my left one once. 
 
-8. I love music. Whether listening or playing. Drums and percussion are the only instruments I will play outside the house, but I also enjoy playing the guitar and piano. 
+8. When I was a kid we had a pet skunk named Zebedee. Once when my parents were having a big cookout with a bunch of friends from church, I hid Zebedee behind the garage. I let him go right when everybody sat down to eat. People really freak out when they see a skunk, and even more so when you walk up to one and pick it up.
 
 9. The name of my first band in high school was The Magic Rats. We later changed it to the much cooler, much tougher sounding Nightwatchmen. Other band names have been Holiday Romance, Big Rain, and The Gun Shy Dogs. 
 
@@ -45,7 +45,7 @@ categories: jekyll update
 
 20. Can't remember if there was anything more fun as a kid than taking the .22 out to the gravel pit and shootin' up bottles and cans. Oh yeah, there was playing football! The cause of two of the broken collarbones by the way.
 
-21. I lied about my ancestry on #11 but the part about Jill's is true. 
+21. I lied about my ancestry on #10 but the part about Jill's is true. 
 
 22. I love being a part of the worship team at The Church At Woodbine. Just about the friendliest bunch of people I have ever come across. 
 
